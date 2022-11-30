@@ -1,0 +1,31 @@
+tera_byte
+
+  #1f98cd
+  rgb(31, 152, 205)
+
+  #1e8ea5
+  rgb(30, 141, 164)
+
+
+#Folder Utama
+  _tera_byte
+
+#Nama Utama
+  asosiasi-himpunan
+
+#Singkatan Nama
+  itk_
+
+#link
+  it-konsultan.com
+
+
+
+#library helper
+  sendgrid_api_text('https://api.sendgrid.com/v3/mail/send',$post);
+  smssend_zenziva
+  smssend
+
+#email
+  tubagus.aom.swk@gmail.com
+  ter4.byte@yahoo.com
