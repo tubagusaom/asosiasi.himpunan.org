@@ -41,6 +41,7 @@ $route['detail-skema/(:any)'] = "sertifikasi/vskema_detail/$1";
 $route['kontak-kami'] = "welcome/kontak";
 $route['persyaratan'] = "repositori/download_category";
 $route['pojok-kebijakan'] = "repositori/pojok_kebijakan";
+$route['struktur-organisasi'] = "repositori/struktur_organisasi";
 $route['galery'] = "welcome/link_terkait";
 $route['pendaftaran.html'] = "welcome/uji_kompetensi";
 

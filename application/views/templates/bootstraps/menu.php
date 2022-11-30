@@ -193,7 +193,7 @@
                                 </ul>
                             </li>
 
-														<li><a href="#">Struktur Organisasi</a></li>
+														<li><a href="<?=base_url()?>struktur-organisasi">Struktur Organisasi</a></li>
 
                           </ul>
                       </li>
