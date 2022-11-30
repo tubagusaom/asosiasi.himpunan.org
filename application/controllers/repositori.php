@@ -242,6 +242,16 @@ class Repositori extends MY_Controller {
         $this->load->view('templates/bootstraps/download',$data);
         $this->load->view('templates/bootstraps/bottom_hide');
     }
+		function pojok_kebijakan(){
+        $data['marquee'] = $this->artikel_model->marquee();
+        $data['berita_lainnya'] = $this->artikel_model->berita_lainnya();
+        $data['data'] = $this->db->get('t_categories')->result();
+        $data['aplikasi'] = $this->db->get('r_konfigurasi_aplikasi')->row();
+
+        $this->load->view('templates/bootstraps/header',$data);
+        $this->load->view('templates/bootstraps/pojok_kebijakan',$data);
+        $this->load->view('templates/bootstraps/bottom_hide');
+    }
 	function download($id = false)
 	{
 		if(!$id)

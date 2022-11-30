@@ -211,7 +211,7 @@
 											<li class="nav-item dropdown">
                           <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Ketentuan <i class="fa fa-angle-down"></i></a>
                           <ul class="dropdown-menu" role="menu">
-														<li><a href="<?=base_url()?>ketentuan-asosiasi">Persyaratan</a></li>
+														<li><a href="<?=base_url()?>persyaratan">Persyaratan</a></li>
 														<li><a href="<?=base_url()?>pojok-kebijakan">Pojok kebijakan</a></li>
                           </ul>
                       </li>
