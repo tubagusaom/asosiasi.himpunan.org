@@ -42,8 +42,8 @@
           <!-- asosiasi start -->
           <div class="col-lg-4 col-md-6 shuffle-item" data-groups="[&quot;asosiasi&quot;]">
             <div class="project-img-container">
-              <a class="gallery-popup" href="<?=base_url()?>assets/img/galeri/asosiasi/a1.jpg" aria-label="project-img">
-                <img class="img-fluid" src="<?=base_url()?>assets/img/galeri/asosiasi/a1.jpg" alt="project-img">
+              <a class="gallery-popup" href="<?=base_url()?>assets/img/galeri/asosiasi/a1.JPG" aria-label="project-img">
+                <img class="img-fluid" src="<?=base_url()?>assets/img/galeri/asosiasi/a1.JPG" alt="project-img">
                 <span class="gallery-icon"><i class="fa fa-plus"></i></span>
               </a>
 
