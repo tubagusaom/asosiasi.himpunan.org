@@ -59,8 +59,8 @@
 
           <div class="col-lg-4 col-md-6 shuffle-item" data-groups="[&quot;asosiasi&quot;]">
             <div class="project-img-container">
-              <a class="gallery-popup" href="<?=base_url()?>assets/img/galeri/asosiasi/a2.jpg" aria-label="project-img">
-                <img class="img-fluid" src="<?=base_url()?>assets/img/galeri/asosiasi/a2.jpg" alt="project-img">
+              <a class="gallery-popup" href="<?=base_url()?>assets/img/galeri/asosiasi/a2.JPG" aria-label="project-img">
+                <img class="img-fluid" src="<?=base_url()?>assets/img/galeri/asosiasi/a2.JPG" alt="project-img">
                 <span class="gallery-icon"><i class="fa fa-plus"></i></span>
               </a>
 
@@ -76,8 +76,8 @@
 
           <div class="col-lg-4 col-md-6 shuffle-item" data-groups="[&quot;asosiasi&quot;]">
             <div class="project-img-container">
-              <a class="gallery-popup" href="<?=base_url()?>assets/img/galeri/asosiasi/a3.jpg" aria-label="project-img">
-                <img class="img-fluid" src="<?=base_url()?>assets/img/galeri/asosiasi/a3.jpg" alt="project-img">
+              <a class="gallery-popup" href="<?=base_url()?>assets/img/galeri/asosiasi/a3.JPG" aria-label="project-img">
+                <img class="img-fluid" src="<?=base_url()?>assets/img/galeri/asosiasi/a3.JPG" alt="project-img">
                 <span class="gallery-icon"><i class="fa fa-plus"></i></span>
               </a>
 
@@ -93,8 +93,8 @@
 
           <div class="col-lg-4 col-md-6 shuffle-item" data-groups="[&quot;asosiasi&quot;]">
             <div class="project-img-container">
-              <a class="gallery-popup" href="<?=base_url()?>assets/img/galeri/asosiasi/a4.jpg" aria-label="project-img">
-                <img class="img-fluid" src="<?=base_url()?>assets/img/galeri/asosiasi/a4.jpg" alt="project-img">
+              <a class="gallery-popup" href="<?=base_url()?>assets/img/galeri/asosiasi/a4.JPG" aria-label="project-img">
+                <img class="img-fluid" src="<?=base_url()?>assets/img/galeri/asosiasi/a4.JPG" alt="project-img">
                 <span class="gallery-icon"><i class="fa fa-plus"></i></span>
               </a>
 
@@ -110,8 +110,8 @@
 
           <div class="col-lg-4 col-md-6 shuffle-item" data-groups="[&quot;asosiasi&quot;]">
             <div class="project-img-container">
-              <a class="gallery-popup" href="<?=base_url()?>assets/img/galeri/asosiasi/a5.jpg" aria-label="project-img">
-                <img class="img-fluid" src="<?=base_url()?>assets/img/galeri/asosiasi/a5.jpg" alt="project-img">
+              <a class="gallery-popup" href="<?=base_url()?>assets/img/galeri/asosiasi/a5.JPG" aria-label="project-img">
+                <img class="img-fluid" src="<?=base_url()?>assets/img/galeri/asosiasi/a5.JPG" alt="project-img">
                 <span class="gallery-icon"><i class="fa fa-plus"></i></span>
               </a>
 
@@ -127,8 +127,8 @@
 
           <div class="col-lg-4 col-md-6 shuffle-item" data-groups="[&quot;asosiasi&quot;]">
             <div class="project-img-container">
-              <a class="gallery-popup" href="<?=base_url()?>assets/img/galeri/asosiasi/a11.jpg" aria-label="project-img">
-                <img class="img-fluid" src="<?=base_url()?>assets/img/galeri/asosiasi/a11.jpg" alt="project-img">
+              <a class="gallery-popup" href="<?=base_url()?>assets/img/galeri/asosiasi/a11.JPG" aria-label="project-img">
+                <img class="img-fluid" src="<?=base_url()?>assets/img/galeri/asosiasi/a11.JPG" alt="project-img">
                 <span class="gallery-icon"><i class="fa fa-plus"></i></span>
               </a>
 
@@ -144,8 +144,8 @@
 
           <div class="col-lg-4 col-md-6 shuffle-item" data-groups="[&quot;asosiasi&quot;]">
             <div class="project-img-container">
-              <a class="gallery-popup" href="<?=base_url()?>assets/img/galeri/asosiasi/a22.jpg" aria-label="project-img">
-                <img class="img-fluid" src="<?=base_url()?>assets/img/galeri/asosiasi/a22.jpg" alt="project-img">
+              <a class="gallery-popup" href="<?=base_url()?>assets/img/galeri/asosiasi/a22.JPG" aria-label="project-img">
+                <img class="img-fluid" src="<?=base_url()?>assets/img/galeri/asosiasi/a22.JPG" alt="project-img">
                 <span class="gallery-icon"><i class="fa fa-plus"></i></span>
               </a>
 
@@ -161,8 +161,8 @@
 
           <div class="col-lg-4 col-md-6 shuffle-item" data-groups="[&quot;asosiasi&quot;]">
             <div class="project-img-container">
-              <a class="gallery-popup" href="<?=base_url()?>assets/img/galeri/asosiasi/a33.jpg" aria-label="project-img">
-                <img class="img-fluid" src="<?=base_url()?>assets/img/galeri/asosiasi/a33.jpg" alt="project-img">
+              <a class="gallery-popup" href="<?=base_url()?>assets/img/galeri/asosiasi/a33.JPG" aria-label="project-img">
+                <img class="img-fluid" src="<?=base_url()?>assets/img/galeri/asosiasi/a33.JPG" alt="project-img">
                 <span class="gallery-icon"><i class="fa fa-plus"></i></span>
               </a>
 
@@ -178,8 +178,8 @@
 
           <div class="col-lg-4 col-md-6 shuffle-item" data-groups="[&quot;asosiasi&quot;]">
             <div class="project-img-container">
-              <a class="gallery-popup" href="<?=base_url()?>assets/img/galeri/asosiasi/a44.jpg" aria-label="project-img">
-                <img class="img-fluid" src="<?=base_url()?>assets/img/galeri/asosiasi/a44.jpg" alt="project-img">
+              <a class="gallery-popup" href="<?=base_url()?>assets/img/galeri/asosiasi/a44.JPG" aria-label="project-img">
+                <img class="img-fluid" src="<?=base_url()?>assets/img/galeri/asosiasi/a44.JPG" alt="project-img">
                 <span class="gallery-icon"><i class="fa fa-plus"></i></span>
               </a>
 
@@ -195,8 +195,8 @@
 
           <div class="col-lg-4 col-md-6 shuffle-item" data-groups="[&quot;asosiasi&quot;]">
             <div class="project-img-container">
-              <a class="gallery-popup" href="<?=base_url()?>assets/img/galeri/asosiasi/a55.jpg" aria-label="project-img">
-                <img class="img-fluid" src="<?=base_url()?>assets/img/galeri/asosiasi/a55.jpg" alt="project-img">
+              <a class="gallery-popup" href="<?=base_url()?>assets/img/galeri/asosiasi/a55.JPG" aria-label="project-img">
+                <img class="img-fluid" src="<?=base_url()?>assets/img/galeri/asosiasi/a55.JPG" alt="project-img">
                 <span class="gallery-icon"><i class="fa fa-plus"></i></span>
               </a>
 
@@ -212,8 +212,8 @@
 
           <div class="col-lg-4 col-md-6 shuffle-item" data-groups="[&quot;asosiasi&quot;]">
             <div class="project-img-container">
-              <a class="gallery-popup" href="<?=base_url()?>assets/img/galeri/asosiasi/a111.jpg" aria-label="project-img">
-                <img class="img-fluid" src="<?=base_url()?>assets/img/galeri/asosiasi/a111.jpg" alt="project-img">
+              <a class="gallery-popup" href="<?=base_url()?>assets/img/galeri/asosiasi/a111.JPG" aria-label="project-img">
+                <img class="img-fluid" src="<?=base_url()?>assets/img/galeri/asosiasi/a111.JPG" alt="project-img">
                 <span class="gallery-icon"><i class="fa fa-plus"></i></span>
               </a>
 
@@ -229,8 +229,8 @@
 
           <div class="col-lg-4 col-md-6 shuffle-item" data-groups="[&quot;asosiasi&quot;]">
             <div class="project-img-container">
-              <a class="gallery-popup" href="<?=base_url()?>assets/img/galeri/asosiasi/a222.jpg" aria-label="project-img">
-                <img class="img-fluid" src="<?=base_url()?>assets/img/galeri/asosiasi/a222.jpg" alt="project-img">
+              <a class="gallery-popup" href="<?=base_url()?>assets/img/galeri/asosiasi/a222.JPG" aria-label="project-img">
+                <img class="img-fluid" src="<?=base_url()?>assets/img/galeri/asosiasi/a222.JPG" alt="project-img">
                 <span class="gallery-icon"><i class="fa fa-plus"></i></span>
               </a>
 
@@ -246,8 +246,8 @@
 
           <div class="col-lg-4 col-md-6 shuffle-item" data-groups="[&quot;asosiasi&quot;]">
             <div class="project-img-container">
-              <a class="gallery-popup" href="<?=base_url()?>assets/img/galeri/asosiasi/a333.jpg" aria-label="project-img">
-                <img class="img-fluid" src="<?=base_url()?>assets/img/galeri/asosiasi/a333.jpg" alt="project-img">
+              <a class="gallery-popup" href="<?=base_url()?>assets/img/galeri/asosiasi/a333.JPG" aria-label="project-img">
+                <img class="img-fluid" src="<?=base_url()?>assets/img/galeri/asosiasi/a333.JPG" alt="project-img">
                 <span class="gallery-icon"><i class="fa fa-plus"></i></span>
               </a>
 
@@ -263,8 +263,8 @@
 
           <div class="col-lg-4 col-md-6 shuffle-item" data-groups="[&quot;asosiasi&quot;]">
             <div class="project-img-container">
-              <a class="gallery-popup" href="<?=base_url()?>assets/img/galeri/asosiasi/a444.jpg" aria-label="project-img">
-                <img class="img-fluid" src="<?=base_url()?>assets/img/galeri/asosiasi/a444.jpg" alt="project-img">
+              <a class="gallery-popup" href="<?=base_url()?>assets/img/galeri/asosiasi/a444.JPG" aria-label="project-img">
+                <img class="img-fluid" src="<?=base_url()?>assets/img/galeri/asosiasi/a444.JPG" alt="project-img">
                 <span class="gallery-icon"><i class="fa fa-plus"></i></span>
               </a>
 
@@ -280,8 +280,8 @@
 
           <div class="col-lg-4 col-md-6 shuffle-item" data-groups="[&quot;asosiasi&quot;]">
             <div class="project-img-container">
-              <a class="gallery-popup" href="<?=base_url()?>assets/img/galeri/asosiasi/a555.jpg" aria-label="project-img">
-                <img class="img-fluid" src="<?=base_url()?>assets/img/galeri/asosiasi/a555.jpg" alt="project-img">
+              <a class="gallery-popup" href="<?=base_url()?>assets/img/galeri/asosiasi/a555.JPG" aria-label="project-img">
+                <img class="img-fluid" src="<?=base_url()?>assets/img/galeri/asosiasi/a555.JPG" alt="project-img">
                 <span class="gallery-icon"><i class="fa fa-plus"></i></span>
               </a>
 
